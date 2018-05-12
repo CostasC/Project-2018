@@ -18,6 +18,8 @@ public class ShApp {
         System.out.println("My Sch App");
         System.out.println("Test Changes");
         System.out.println("Hello Team, this is a change on GitHub");
+        System.out.println("TEST");
+        System.out.println("Hahahahahaha, kill me");
     }
     
 }
